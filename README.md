@@ -1,6 +1,6 @@
 # -CRS-
 CRS(Cultiral Responsiveness Point)
-![CRS 프로젝트 대표 이미지](banner.png)
+![CRS 프로젝트 대표 이미지](crs_banner.png)
 
 # CRS 웹툰 번역·현지화 품질평가 연구
 
